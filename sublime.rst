@@ -1,4 +1,4 @@
-SublimeText
+Sublime Text 3
 ==================================
 
 Editing
