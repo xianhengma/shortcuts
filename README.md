@@ -1,3 +1,3 @@
-Shortcuts for Tools
+shortcuts for tools
 =========
 Sublime Text
