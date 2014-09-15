@@ -2,6 +2,8 @@
 Keyboard Shortcuts - SublimeText
 ==================================
 
+.. warning::
+    This topic is a draft and may contain wrong information.
 
 Editing
 -------
